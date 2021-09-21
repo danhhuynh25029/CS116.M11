@@ -1,6 +1,9 @@
 # CS116.M11
-Dữ liệu có cấu trúc:
-+ Bảng
-+ Bảng + không gian
-Dữ liệu phi cấu trúc:
-+ Video,hình ảnh,âm thanh
+### Dữ liệu : 
+* Có cấu trúc :    
+    + Bảng
+    + Bảng và không gian
+* Không có cấu trúc :
+    + Video
+    + Âm thanh
+    + văn bản
