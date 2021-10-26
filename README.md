@@ -7,3 +7,6 @@
     + Video
     + Âm thanh
     + văn bản
+### Sự khác nhau Phân lớp và hồi quy :
+* Phân lớp : không có thứ tự ( = , !=)
+* Hồi quy : có thứ tự ( > , < , =)
