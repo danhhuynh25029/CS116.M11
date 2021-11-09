@@ -11,6 +11,9 @@
 * Phân lớp : không có thứ tự ( = , !=)
 * Hồi quy : có thứ tự ( > , < , =)
 ### Deep Learning:
+##### Mạng Neural Network:
 * Khai thác đặc trừng đầu vào nhiều cấp độ
 * Không được sử dụng dữ liệu test trong quá trình train
 -> Chia train và test sau đó chuẩn hóa tập train
+* Điểm yếu : Cần quá nhiều tham số.
+##### Mạng CNN :
