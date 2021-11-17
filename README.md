@@ -17,3 +17,13 @@
 -> Chia train và test sau đó chuẩn hóa tập train
 * Điểm yếu : Cần quá nhiều tham số.
 ##### Mạng CNN :
+##### Khái niệm:
+* Tham số (parameter)
+<pre>Quyết định giá trị đầu ra như thế nào.Thay đổi trong quá trình huấn luyện</pre>
+* siêu tham số (hyper-parameter)
+<pre>Liên quan đến kiến trúc mô hình vận hành</pre>
+##### Thuật toán tìm bộ tham số :
+* Grid Search : 
+<pre>Điểm yếu : Độ phức tạp lớn</pre>
+* Ramdon Search :
+
