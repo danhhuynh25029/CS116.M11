@@ -26,4 +26,5 @@
 * Grid Search : 
 <pre>Điểm yếu : Độ phức tạp lớn</pre>
 * Ramdon Search :
-
+##### CNN :
+* VGG 16
